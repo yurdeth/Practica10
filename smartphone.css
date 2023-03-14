@@ -1,0 +1,17 @@
+.medio{
+    background-color: #605933;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+}
+
+.final{
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+}
+
+.item{
+    width: 100%;
+}
